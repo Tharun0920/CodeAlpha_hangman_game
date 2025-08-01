@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 26 16:01:48 2025
-
-@author: reddy
-"""
-
 import random
 
 def hangman():
